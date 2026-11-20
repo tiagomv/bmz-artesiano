@@ -218,7 +218,7 @@ export function QuoteSection({ selectedSymptoms }: QuoteSectionProps) {
                         }));
                         if (errors.phone) setErrors((prev) => ({ ...prev, phone: undefined }));
                       }}
-                      placeholder="(11) 99999-9999"
+                      placeholder="(61) 99113-4007"
                       aria-invalid={Boolean(errors.phone)}
                       aria-describedby={errors.phone ? 'quote-phone-error' : undefined}
                       className="mt-1.5 block min-h-11 w-full rounded-lg border border-slate-300 bg-white px-3.5 py-2.5 font-mono text-sm tabular-nums text-slate-900 placeholder:font-sans placeholder:text-slate-400 focus:border-[#007A99] focus:outline-none focus:ring-2 focus:ring-[#007A99]/20"

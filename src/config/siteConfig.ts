@@ -1,8 +1,8 @@
 export const SITE_CONFIG = {
   companyName: 'BMZ Artesiano',
   cityRegion: 'Sua Cidade e Região',
-  whatsappDigits: '5511999999999',
-  whatsappDisplay: '(11) 99999-9999',
+  whatsappDigits: '5561991134007',
+  whatsappDisplay: '(61) 99113-4007',
   serviceHours: 'Seg a Sáb · 07h às 19h (Emergências sob consulta)',
   assets: {
     logo: '/assets/aistudio/image_929079b8.png',
