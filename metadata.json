@@ -1,0 +1,6 @@
+{
+  "name": "BMZ Artesiano — Limpeza de Poço Artesiano e Conserto de Bombas",
+  "description": "Especialistas em limpeza de poço artesiano, manutenção preventiva e conserto de bombas submersas. Recupere a vazão e a água cristalina do seu poço.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
