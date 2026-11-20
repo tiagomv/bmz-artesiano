@@ -2,6 +2,8 @@
 
 Landing page moderna e responsiva para a **BMZ Artesiano**, especializada em limpeza e desinfecção de poços artesianos, manutenção preventiva e conserto/saque de bombas submersas.
 
+🔗 **Site online:** [https://bmzartesiano.vercel.app](https://bmzartesiano.vercel.app)
+
 ## 🚀 Tecnologias
 
 - **React 19**
